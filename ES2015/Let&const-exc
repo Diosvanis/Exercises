@@ -1,0 +1,5 @@
+1: Const PI = 3.14
+2: var can be Redeclared, while let cannot
+3: var can be Reassigned, while const cannot
+4: let can be Reassigned but not Redeclared, while const cannot be Reassigned NOR Redeclared
+5: a property of var where the variable name can be accessed at the begining of a codebase before it is assigned a value
